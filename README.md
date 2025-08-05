@@ -14,11 +14,10 @@
 This project uses C and C language mixing to complete the implementation of a set of intelligent car navigation algorithms. Including fixed-point parking, speed detection, sound and light alarm, automatic navigation and other algorithms, **all algorithm implementation and circuit design can be seen in my project report main.pdf**
 
 # HardWare Details
-To help you better understand the details of the algorithm, we show the main control circuit of the vehicle in the figure below
+We show the main control circuit of the vehicle in the figure below
 ![54a3f63715cb9fc45cff7739cf3885a](https://github.com/user-attachments/assets/57f179ce-e425-4f7d-9d44-9ef2f558a00b)
 
-Corresponding to my handwritten IR detection C code, its soldering module is shown in the figure
-![027469e8b47f465047c6d63450c52f6](https://github.com/user-attachments/assets/79c3cc25-b589-4467-b751-36504892267a)
+
 
 The general structure of the vehicle is shown in the figure below
 ![f6411aa8956915b21ca3d0c7882ad06](https://github.com/user-attachments/assets/2c9ca40a-d16f-4d44-9839-b0992e920e7d)
