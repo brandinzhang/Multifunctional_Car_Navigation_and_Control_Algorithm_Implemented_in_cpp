@@ -1,4 +1,4 @@
-# C-based-tracing-algorithm-development-and-circuit-design
+# Multifunctional Car Navigation and Control Algorithm Implemented in C++
 
 [![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com)
 [![C++](https://img.shields.io/badge/Embedded_C++-ISO%2FEC_14882-blueviolet)](https://isocpp.org)
