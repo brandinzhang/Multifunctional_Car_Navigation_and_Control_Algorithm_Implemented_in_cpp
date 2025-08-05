@@ -11,7 +11,7 @@
 [![Toolchain](https://img.shields.io/badge/Toolchain-ARM_GCC_12.2-blue?logo=gnu)](https://developer.arm.com/)
 [![Debugger](https://img.shields.io/badge/Debugger-JLink_v7.70-informational?logo=segger)](https://www.segger.com/)
 
-This project uses C and C language mixing to complete the implementation of a set of intelligent car navigation algorithms. Including fixed-point parking, speed detection, sound and light alarm, automatic navigation and other algorithms, the specific algorithm implementation and circuit design can be seen in my project report main.pdf
+This project uses C and C language mixing to complete the implementation of a set of intelligent car navigation algorithms. Including fixed-point parking, speed detection, sound and light alarm, automatic navigation and other algorithms, **all algorithm implementation and circuit design can be seen in my project report main.pdf**
 
 # HardWare Details
 To help you better understand the details of the algorithm, we show the main control circuit of the vehicle in the figure below
