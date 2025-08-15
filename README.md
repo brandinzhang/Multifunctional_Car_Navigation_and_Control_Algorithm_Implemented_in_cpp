@@ -1,6 +1,6 @@
-# CAU 2025 Intelligent Systems Summer Project:  
-# Multi-functional Line-following Car Navigation and Control Algorithm Based on C++  
+# CAU 2025 Intelligent Systems Summer Project: Multi-functional Car Navigation and Control Algorithm Based on C++  
 # 中国农业大学2025智能系暑期大作业：基于C++实现的多功能寻迹车导航与控制算法
+
 
 [![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com)
 [![Embedded C++](https://img.shields.io/badge/Embedded_C++-ISO%2FEC_14882-blueviolet)](https://isocpp.org)
@@ -12,13 +12,35 @@
 [![SPICE Simulation](https://img.shields.io/badge/SPICE_Simulation-v3.5.1-orange)](https://www.ni.com/en/shop/software/products/multisim.html)
 [![Toolchain](https://img.shields.io/badge/Toolchain-ARM_GCC_12.2-blue?logo=gnu)](https://developer.arm.com/)
 [![Debugger](https://img.shields.io/badge/Debugger-JLink_v7.70-informational?logo=segger)](https://www.segger.com/)
+## Demo Videos / 演示视频
+### 1. Main Function Demonstration / 主要功能演示
+
+
+
+https://github.com/user-attachments/assets/f8b0f884-4c11-482b-9c53-d50436c44105
+
+
+### 2. System Testing / 系统测试
+
+
+
+https://github.com/user-attachments/assets/ff308263-f283-48aa-81d9-5dbc589d4fc7
+
+
+
 
 ## Project Overview / 项目概述
-- This project implements intelligent car navigation algorithms using C/C++ hybrid programming, including core features:  
-  **Precise Parking**, **Speed Detection**, **Audio-Visual Alarm**, and **Automatic Line-following Navigation**.  
-  All algorithm implementations and circuit designs are detailed in the project report [main.pdf](main.pdf)  
-  本项目使用C/C++混合编程实现智能汽车导航算法，包含**定点停车**、**速度检测**、**声光报警**、**自动寻迹导航**等核心功能，  
-  所有算法实现与电路设计详见项目报告 [main.pdf](main.pdf)
+- This project implements intelligent car navigation algorithms using C/C++ hybrid programming with strict hardware constraints:  
+  **Core Requirement**: Only basic electronic components (capacitors, resistors, transistors, etc.) were permitted - pre-made modules were prohibited.  
+
+
+  All hardware designs and algorithm implementations are detailed in [main.pdf](main.pdf).  
+
+本项目基于严格的硬件限制开发智能汽车导航算法：  
+**核心要求**：仅允许使用基础电子元件（电容/电阻/三极管等），禁止使用现成模块  
+
+
+完整硬件设计与算法实现详见[main.pdf](main.pdf)
 
 ## Development Details / 开发详情
 - **Code**: Written independently by me  
@@ -35,4 +57,4 @@
 ![Main Control Circuit](https://github.com/user-attachments/assets/57f179ce-e425-4f7d-9d44-9ef2f558a00b)  
 
 ## Vehicle Structure / 整车结构  
-![Full Structure](https://github.com/user-attachments/assets/2c9ca40a-d16f-4d44-9839-b0992e920e7d)  
+![Full Structure](https://github.com/user-attachments/assets/2c9ca40a-d16f-4d44-9839-b0992e920e7d)
