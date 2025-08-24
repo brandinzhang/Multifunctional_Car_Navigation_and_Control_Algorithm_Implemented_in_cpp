@@ -1,5 +1,5 @@
 # CAU 2025 Intelligent Systems Summer Project: Multi-functional Car Navigation and Control Algorithm Based on C++  
-# 中国农业大学2025智能系暑期大作业：基于C++实现的多功能寻迹车导航与控制算法
+# cau2025智能系暑期大作业：只使用电容电阻二极管！--基于C++实现的多功能寻迹车导航与控制算法
 
 
 [![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com)
